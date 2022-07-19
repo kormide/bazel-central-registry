@@ -1,0 +1,5 @@
+{
+    "integrity": "sha256-ih5YpGd+O2VQLtfNfgFtwS+T1fWy5WOcWcRiDqzKgzs=",
+    "strip_prefix": "bazel-lib-5.55.27",
+    "url": "https://github.com/kormide/bazel-lib/archive/refs/tags/v5.55.27.tar.gz"
+}
